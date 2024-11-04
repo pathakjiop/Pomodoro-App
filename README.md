@@ -32,3 +32,17 @@ Start the app
 npm start
 ```
 The app will be available at http://localhost:3000.
+
+
+# Usage
+1. Set your desired Pomodoro and break lengths by clicking on the timer.
+2. Start the timer to begin your focused work interval.
+3. When the timer reaches zero, a notification sound (if enabled) will alert you to take a break or start a new session.
+4. Track your progress with the session counter to see how many Pomodoros you've completed.
+
+
+Technologies Used
+React: JavaScript library for building the user interface.
+CSS: Custom styling for an intuitive and visually pleasing design.
+React Hooks: Manage state and side effects within functional components.
+HTML5 Audio API: For sound notifications at the end of each session.
