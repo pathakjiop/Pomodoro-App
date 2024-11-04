@@ -46,3 +46,13 @@ The app will be available at http://localhost:3000.
 - CSS: Custom styling for an intuitive and visually pleasing design.
 - React Hooks: Manage state and side effects within functional components.
 - HTML5 Audio API: For sound notifications at the end of each session.
+
+
+# Contributing
+Contributions are welcome! If you'd like to make this app even better, please fork the repository and create a pull request with your improvements.
+
+- Fork the project
+- Create a new branch (git checkout -b feature-name)
+- Commit your changes (git commit -m 'Add some feature')
+- Push to the branch (git push origin feature-name)
+- Open a Pull Request
