@@ -7,3 +7,28 @@ A minimalist and customizable Pomodoro Timer built with React. This app helps yo
 - 🔔 Sound Notifications: Get audio notifications at the end of each interval (optional).
 - 📊 Session Tracker: Keep track of completed Pomodoro sessions.
 - 💻 Responsive Design: Works on desktop, tablet, and mobile devices.
+
+# Installation
+To run this project locally, follow these steps:
+
+## Clone the repository
+
+```bash
+git clone https://github.com/your-username/Pomodoro-App.git
+```
+Navigate to the project directory
+
+```bash
+cd Pomodoro-App
+```
+Install dependencies
+
+```bash
+npm install
+```
+Start the app
+
+bash
+Copy code
+npm start
+The app will be available at http://localhost:3000.
