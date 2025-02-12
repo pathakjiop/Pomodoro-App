@@ -14,7 +14,7 @@ To run this project locally, follow these steps:
 ## Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Pomodoro-App.git
+git clone https://github.com/pathakjiop/Pomodoro-App.git
 ```
 Navigate to the project directory
 
